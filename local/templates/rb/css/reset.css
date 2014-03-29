@@ -139,7 +139,7 @@ textarea { overflow:auto; vertical-align:top; }
 .upper { text-transform:uppercase; }
 .lower { text-transform:lowercase; }
 
-.small { font-size:0.9em; }
+/*.small { font-size:0.8em; }
 .smaller { font-size:0.7em; }
 .smallest { font-size:0.5em; }
 .big { font-size:1.2em; }
@@ -147,7 +147,7 @@ textarea { overflow:auto; vertical-align:top; }
 .biggest { font-size:1.6em; }
 .bigx2 { font-size:2em; }
 .bigx25 { font-size:2.5em; }
-.bigx3 { font-size:3em; }
+.bigx3 { font-size:3em; }*/
 .bigx4 { font-size:4em; }
 .bigx5 { font-size:5em; }
 .bigx6 { font-size:6em; }
